@@ -84,7 +84,7 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/en-faizal-2000x1253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/kcs-yes-2000x1411.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
