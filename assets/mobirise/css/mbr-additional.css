@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 22px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#header1-1 H1 {
+  text-align: left;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 48px;
+  color: #ffffff;
+}
+#header1-1 .btn {
+  font-size: 16px;
+}
+#contacts2-a P {
+  text-align: left;
+}
+
+#menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3 .mbr-brand__name a {
+  font-size: 22px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-6 .mbr-brand__name a {
+  font-size: 22px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
