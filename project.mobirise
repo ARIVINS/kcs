@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-12_0118",
+    "name": "Site_kcss",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,12 @@
     "uniqCompNum": 16,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/a-300x300-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
